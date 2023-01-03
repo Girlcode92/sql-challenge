@@ -1,4 +1,4 @@
-The following repository includes an ERD created with multiple csv files, SQL tables creations and queries answering the data analysis question below. Data modeling, data engineering and data analysis were performed for this project.
+The following repository includes an ERD created with multiple csv files, SQL table creations and queries answering the data analysis questions below. Data modeling, data engineering and data analysis were performed for this project.
 
 Data Analysis
 List the employee number, last name, first name, sex, and salary of each employee.
