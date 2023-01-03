@@ -1,5 +1,4 @@
-# sql-challenge
-challenge 9
+
 The following repository includes an ERD created with multiple csv files, SQL tables creations and queries answering the data analysis question below. Data modeling, data engineering and data analysis were performed for this project.
 
 Data Analysis
